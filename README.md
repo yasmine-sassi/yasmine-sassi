@@ -4,7 +4,7 @@ I'm Yasmine, a passionate student on a journey to becoming a Software Engineer. 
 
 #### 🌱 About Me
 - 📚 I'm a INSAT student majoring in Software Engineering.
-- 💡 Exploring a diverse range of technologies, from web development to OOP.
+- 💡 Exploring a diverse range of technologies, from web development to OOP and Machine Learning.
 - 🚀 Committed to continuous learning and staying updated with the latest industry trends.
 
 #### 📫 Let's Connect
