@@ -16,22 +16,6 @@
 
 ---
 
-## `$ whoami`
-
-```python
-class Yasmine:
-    def __init__(self):
-        self.name        = "Yasmine Sassi"
-        self.degree      = "Software Engineering — GL4 @ INSAT"
-        self.focus       = ["AI/ML", "LLMs", "Deep Learning", "Computer Vision"]
-        self.currently   = "Preparing finals · Exploring intelligent architectures"
-
-    def __repr__(self):
-        return f"Engineer({self.focus})"
-```
-
----
-
 ## `$ ls ./skills`
 
 <div align="center">
