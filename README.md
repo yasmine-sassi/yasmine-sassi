@@ -1,17 +1,85 @@
-### Hi there! 👋
+# 👋 Hi there! I'm Yasmine
 
-I'm Yasmine, a passionate student on a journey to becoming a Software Engineer. Currently immersed in the world of code and algorithms, I'm dedicated to honing my skills and expanding my knowledge.
+Welcome to my GitHub profile! I'm a passionate **Software Engineering student** at **INSAT**, dedicated to building robust solutions and continuously expanding my technical expertise.
 
-#### 🌱 About Me
-- 📚 I'm a INSAT student majoring in Software Engineering.
-- 💡 Exploring a diverse range of technologies, from web development to OOP and Machine Learning.
-- 🚀 Committed to continuous learning and staying updated with the latest industry trends.
+---
 
-#### 📫 Let's Connect
-- 📧 Email: yasmine.3.sassi@gmail.com
-- 🔗 LinkedIn: [Yasmine Sassi](https://www.linkedin.com/in/yasmine-sassi-536138249/)
+## 🚀 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>  <a href="https://symfony.com/" target="_blank" rel="noreferrer"><img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40" /></a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"></a><img 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+- 🎓 **Education**: Software Engineering student at INSAT
+- 💻 **Interests**: Web Development, Object-Oriented Programming, Machine Learning, and Full-Stack Development
+- 🌱 **Current Focus**: Deepening my knowledge in software architecture and modern development practices
+- 🎯 **Goal**: To become a skilled Software Engineer who creates impactful and scalable applications
+- ⚡ **Philosophy**: Continuous learning, clean code, and collaborative problem-solving
+
+---
+
+## 🛠️ Technologies & Tools
+
+<div align="center">
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### Backend & Frameworks
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasmine-sassi&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasmine-sassi&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+I'm always interested in collaborating on exciting projects and connecting with fellow developers!
+
+- **Email**: [yasmine.3.sassi@gmail.com](mailto:yasmine.3.sassi@gmail.com)
+- **LinkedIn**: [Yasmine Sassi](https://www.linkedin.com/in/yasmine-sassi-536138249/)
+- **GitHub**: [yasmine-sassi](https://github.com/yasmine-sassi)
+
+---
+
+## 💡 Fun Facts
+
+- 🔍 I love debugging and optimizing code for better performance
+- 🎮 Problem-solving is my favorite challenge
+- 🌍 Always eager to learn new technologies and best practices
+- 🤝 Open to collaboration and knowledge sharing
+
+---
+
+<div align="center">
+  
+**Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out!** 🌟
+
+</div>
