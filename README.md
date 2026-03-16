@@ -12,6 +12,12 @@
 
 </div>
 
+<div align="center">
+  
+📧 **Email** · [yasmine.3.sassi@gmail.com](mailto:yasmine.3.sassi@gmail.com)      🔗 **LinkedIn** · [Yasmine Sassi](https://www.linkedin.com/in/yasmine-sassi-536138249/)
+
+</div>
+
 <br>
 
 ---
@@ -64,16 +70,6 @@
 <br>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=yasmine-sassi&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD)
-
-</div>
-
----
-
-## `$ contact --info`
-
-<div align="center">
-  
-📧 **Email** · [yasmine.3.sassi@gmail.com](mailto:yasmine.3.sassi@gmail.com)      🔗 **LinkedIn** · [Yasmine Sassi](https://www.linkedin.com/in/yasmine-sassi-536138249/)
 
 </div>
 
