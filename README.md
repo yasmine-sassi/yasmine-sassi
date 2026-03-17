@@ -55,6 +55,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=00758F)
 ![Oracle](https://img.shields.io/badge/Oracle-0D1117?style=flat-square&logo=oracle&logoColor=F80000)
 ![Spark](https://img.shields.io/badge/Apache_Spark-0D1117?style=flat-square&logo=apachespark&logoColor=E25A1C)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=13AA52)
 
 </div>
 
